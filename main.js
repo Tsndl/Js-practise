@@ -1,4 +1,6 @@
 const ul = document.querySelector('.items');
 
 //ul.remove()
-ul. firstElementChild.textContent = 'Samba';
+//ul.lastElementChild.remove();
+ul. firstElementChild.textContent = 'Kowalski';
+ul.children[2].innerText = 'Tsndl';
