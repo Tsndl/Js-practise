@@ -4,6 +4,7 @@ const ul = document.querySelector('.items');
 //ul.lastElementChild.remove();
 ul. firstElementChild.textContent = 'Kowalski';
 ul.children[2].innerText = 'Tsndl';
+ul.children[1].innerText = 'Item se7en'
 
 const btn = document.querySelector('.btn');
 
